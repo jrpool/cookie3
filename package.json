@@ -1,6 +1,6 @@
 {
-  "name": "cookie2",
-  "description": "Express application that stores plain-text cookies.",
+  "name": "cookie3",
+  "description": "Express application that manages sessions.",
   "author": "Jonathan Pool",
   "license": "MIT",
   "private": false,
@@ -20,11 +20,11 @@
     "eslint": "^4.0.0"
   },
   "bugs": {
-    "url": "https://github.com/jrpool/cookie1.git/issues"
+    "url": "https://github.com/jrpool/cookie3.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jrpool/cookie1.git"
+    "url": "https://github.com/jrpool/cookie3.git"
   },
   "babel": {
     "presets": [
